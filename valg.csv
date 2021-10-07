@@ -1,0 +1,197 @@
+Country,bnp,valgdeltakelse,korrupsjon
+Mexico,16.49408,52.66,3
+Suriname,NA,71.57,3
+Sweden,45.54189,87.18,1
+Switzerland,61.372730000000004,45.12,1
+Ghana,4.2670699999999995,77.83,3
+South Africa,12.165790000000001,66.05,3
+Japan,38.673809999999996,52.66,2
+Albania,11.10417,46.32,3
+Egypt,11.95721,29.07,3
+Yemen,2.28489,74.98,4
+Colombia,13.54505,49,3
+Poland,27.45524,61.74,2
+Brazil,14.03357,79.8,3
+Portugal,27.0356,48.57,2
+El Salvador,8.5982,44.96,3
+Bangladesh,4.09925,80,3
+Bolivia,6.6957700000000004,88.42,3
+Haiti,1.72904,17.82,4
+Honduras,5.04164,59.49,4
+Mali,1.6673,35.58,3
+Pakistan,5.5104,50.14,3
+Peru,12.31008,70.08,3
+Senegal,2.61712,53.66,3
+Sudan,3.3796,46.4,4
+Afghanistan,1.9345599999999998,45.23,4
+Argentina,18.55638,80.94,3
+Ethiopia,1.83849,93.22,3
+India,6.8065,67.4,3
+Kenya,3.3774699999999998,77.37,3
+Lebanon,12.558969999999999,49.7,3
+Nigeria,5.23766,32.14,3
+Philippines,8.139140000000001,74.31,3
+Taiwan,44.66386,74.86,2
+Thailand,16.648619999999998,74.69,3
+Uganda,2.04542,55.23,3
+Venezuela,10.709950000000001,30.09,4
+Benin,2.22018,27.16,3
+Bhutan,NA,71.46,2
+Burkina Faso,1.5896199999999998,50.7,3
+Cambodia,3.62856,83.02,4
+Indonesia,11.85174,72.57,3
+Mozambique,1.13277,51.41,3
+Nepal,2.72742,68.67,3
+Nicaragua,4.9524799999999995,63.54,4
+Niger,0.96466,76.96,3
+Zambia,3.53403,56.03,3
+Zimbabwe,1.61141,83.1,4
+Guinea,1.60647,58.04,3
+Mauritania,3.45751,72.46,3
+Canada,44.868739999999995,67.65,1
+Australia,49.8308,91.89,1
+Botswana,15.84213,83.51,2
+Burundi,0.65136,87.31,4
+Central African Republic,0.62349,44.28,3
+Chile,22.104770000000002,46.53,2
+Costa Rica,14.68625,65.56,2
+Timor-Leste,NA,80.98,3
+Ecuador,10.63883,81,3
+France,38.51592,48.7,2
+Germany,46.177620000000005,76.15,1
+Guatemala,7.4021099999999995,63.4,3
+Iraq,12.835809999999999,44.85,4
+Ireland,64.68430000000001,62.77,2
+Italy,34.36417,72.93,2
+Jordan,11.50634,29.9,3
+Latvia,24.31268,54.58,2
+Lesotho,2.73147,46.37,3
+Liberia,0.8184199999999999,72.49,3
+Malawi,1.11664,70.07,3
+Maldives,NA,75.52,3
+Mongolia,13.38254,73.64,3
+Morocco,8.451139999999999,50.18,3
+Netherlands,47.47411,78.71,1
+Panama,22.637150000000002,70.71,3
+Papua New Guinea,NA,81.3,3
+Sierra Leone,1.6838499999999998,84.2,3
+Spain,31.49652,71.76,2
+Tunisia,11.35389,41.7,3
+Turkey,19.270220000000002,86.22,3
+Ukraine,9.813360000000001,49.2,3
+United Kingdom,38.05809,67.55,1
+Uruguay,20.18584,90.13,2
+Algeria,14.22802,23.03,3
+Angola,7.771439999999999,76.13,3
+Armenia,11.45443,49.41,3
+Azerbaijan,16.62806,46.84,3
+Belarus,18.72732,77.31,3
+Cameroon,2.8880500000000002,43.79,3
+Chad,2.04636,56.6,4
+Djibouti,3.29568,61.78,3
+Dominican Republic,15.9124,55.18,3
+Gabon,17.61356,58.63,3
+Georgia,11.9849,56.11,2
+Guinea-Bissau,1.5014100000000001,84.69,4
+Jamaica,7.2729799999999996,37.85,3
+Kazakhstan,25.307560000000002,63.25,3
+Kyrgyzstan,5.17699,56.2,3
+Libya,15.013309999999999,41.74,4
+Madagascar,1.4276,40,3
+Namibia,9.04312,60.38,2
+Rwanda,1.92929,93.04,2
+Somalia,NA,99.86,4
+Sri Lanka,11.66291,75.89,3
+Tajikistan,4.44038,86.44,3
+Togo,1.45136,59.25,3
+Trinidad and Tobago,28.549409999999998,58.04,3
+Turkmenistan,26.318369999999998,91.69,4
+Uzbekistan,11.22037,67.8,3
+Austria,42.98807,75.59,1
+Bahrain,39.49876999999999,67,3
+Barbados,11.995190000000001,60.29,2
+Belgium,39.7562,88.38,1
+Bosnia and Herzegovina,10.46052,54.03,3
+Bulgaria,18.44426,49.11,3
+Comoros,1.72442,62.42,4
+Croatia,22.012310000000003,46.9,3
+Cuba,8.325629999999999,85.65,3
+Cyprus,27.18442,65.72,2
+Czech Republic,30.74851,60.84,2
+Denmark,46.31234,84.6,1
+Equatorial Guinea,28.528950000000002,84.01,4
+Estonia,27.40866,63.67,1
+Fiji,NA,71.92,NA
+Finland,38.896699999999996,68.73,1
+Greece,23.450770000000002,57.78,2
+Guyana,NA,72.58,3
+Iceland,43.43854,81.2,1
+Israel,32.954769999999996,67.44,2
+Kuwait,65.52074,60,3
+Lithuania,27.370549999999998,47.8,2
+Luxembourg,57.4275,89.66,1
+Malaysia,24.84236,82.32,2
+Malta,32.02891,92.06,2
+Mauritius,20.13857,77.01,2
+Montenegro,19.50416,76.65,3
+New Zealand,35.33614,82.24,1
+Norway,84.58014,77.17,1
+Oman,36.47764,49.02,2
+Paraguay,9.33895,60.88,3
+Romania,20.12629,31.84,3
+Sao Tome and Principe,3.7302,80.65,3
+Serbia,14.124120000000001,48.93,3
+Seychelles,29.53106,88.4,2
+Singapore,68.40235000000001,95.81,1
+Slovakia,27.07553,65.81,3
+Slovenia,29.244919999999997,52.64,2
+Solomon Islands,NA,67.54,3
+Vanuatu,NA,51.29,3
+Hungary,25.62281,69.67,3
+Andorra,NA,68.33,NA
+Anguilla,NA,61.02,NA
+Antigua and Barbuda,NA,90.27,NA
+Aruba,NA,84.66,NA
+Bahamas,NA,65,2
+Belize,NA,81.86,NA
+Bermuda,NA,60.93,NA
+Cabo Verde,NA,57.46,2
+Cayman Islands,NA,73.1,NA
+"Congo, Democratic Republic of",NA,45.4,4
+Cook Islands,NA,79.12,NA
+Cote d'Ivoire,NA,37.88,3
+Dominica,NA,53.66,2
+Faroe Islands,NA,89.42,NA
+Gambia,NA,42,3
+Gibraltar,NA,70.84,NA
+Greenland,NA,65.84,NA
+Grenada,NA,73.65,2
+"Iran, Islamic Republic of",NA,42.32,3
+Kiribati,NA,75.67,NA
+"Korea, Republic of",NA,66.21,2
+Lao People's Dem. Republic,NA,98.02,3
+Liechtenstein,NA,78.01,NA
+Marshall Islands,NA,37.84,NA
+"Micronesia, Federated States of",NA,33.11,NA
+"Moldova, Republic of",NA,48.51,3
+Monaco,NA,70.35,NA
+Montserrat,NA,62.47,NA
+Myanmar,NA,71.89,3
+Nauru,NA,95.13,NA
+"North Macedonia, Republic of",NA,52.02,3
+Palau,NA,62.7,NA
+Republic of The Congo (Brazzaville),NA,42.23,4
+Russian Federation,NA,47.88,3
+Saint Kitts and Nevis,NA,58.41,NA
+Saint Lucia,NA,53.45,2
+Saint Vincent and The Grenadines,NA,66.95,2
+Samoa,NA,69.47,NA
+San Marino,NA,55.73,NA
+State of Palestine,NA,77.7,NA
+Syrian Arab Republic,NA,33.17,4
+"Tanzania, United Republic of",NA,62.68,3
+Tonga,NA,67,NA
+Tuvalu,NA,79.99,NA
+United States,NA,56.84,2
+Viet Nam,NA,95.6,3
+"Virgin Islands, British",NA,64.64,NA
